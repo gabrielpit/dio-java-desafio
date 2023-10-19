@@ -40,4 +40,5 @@ public class Config {
         System.out.println("Nome da Aplicação: " + appName);
         System.out.println("Número Máximo de Conexões: " + maxConnections);
     }
+    
 }
